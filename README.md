@@ -1,4 +1,4 @@
-# nuxt-todo
+# nuxt-ts-todo
 
 ## Build Setup
 
